@@ -54,7 +54,7 @@ const ExperienceCard = ({ experience }) => {
       </ul>
       <br /><br />
       <div>
-      <button className="bg-indigo-500 hover:bg-indigo-600 p-3 rounded-lg"><a href={experience.link}>Register Here</a></button>
+      <button className="bg-indigo-500 hover:bg-indigo-600 p-3 rounded-lg"><a href={experience.link} target="_blank">Register Here</a></button>
       </div>
       
     </VerticalTimelineElement>

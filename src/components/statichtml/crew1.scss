@@ -51,7 +51,7 @@ $border-color_1: #fff;
 
 
 body {
-	background: var(--color-bg) url('./src/components/statichtml/img/bg.jpg') no-repeat 50% 50% fixed;
+	background: var(--color-bg) url('./img/bg.jpg') no-repeat 50% 50% fixed;
 	background-size: cover;
 }
 
@@ -342,6 +342,103 @@ a {
 		}
 	}
 }
+
+.i1{
+	background-image: url('./img/Sathvik.jpeg');
+}
+.i2{
+	background-image: url('./img/Adithiya.jpg');
+}
+.i3{
+	background-image: url('./img/Rasul.jpg');
+}
+.i4{
+	background-image: url('./img/Pavan.jpg');
+}
+.i5{
+	background-image: url('./img/Fayaz.jpg');
+}
+.i6{
+	background-image: url('./img/Kalyan.jpg');
+}
+.i7{
+	background-image: url('./img/Aditya.jpg');
+}
+.i8{
+	background-image: url('./img/Vineeth.jpg');
+}
+.i9{
+	background-image: url('./img/Sujith.jpg');
+}
+.i10{
+	background-image: url('./img/Monish.jpg');
+}
+.i11{
+	background-image: url('./img/Vinay.jpg');
+}
+.i12{
+	background-image: url('./img/Nadella.jpg');
+}
+.i13{
+	background-image: url('./img/Richitha.jpg');
+}
+.i14{
+	background-image: url('./img/Pokshani.jpg');
+}
+.i15{
+	background-image: url('./img/Suraj.jpg');
+}
+.i16{
+	background-image: url('./img/Ali.jpg');
+	background-position-y: -90px ;
+}
+.i17{
+	background-image: url('./img/Manasa.jpg');
+}
+.i18{
+	background-image: url('./img/Aashrith.jpg');
+}
+.i19{
+	background-image: url('./img/Aabash.jpg');
+}
+.i20{
+	background-image: url('./img/Sania.jpg');
+}
+.i21{
+	background-image: url('./img/Darshini.jpg');
+}
+.i22{
+	background-image: url('./img/Madhulika.jpg');
+}
+.i23{
+	background-image: url('./img/Rishik.jpeg');
+}
+.i24{
+	background-image: url('./img/Saikiran.jpg');
+}
+.i25{
+	background-image: url('./img/Santoshi.jpg');
+}
+.i26{
+	background-image: url('./img/PranavRaj.jpg');
+}
+.i27{
+	background-image: url('./img/Boyna.jpeg');
+}
+.i28{
+	background-image: url('./img/Deekshith.jpg');
+}
+.i29{
+	background-image: url('./img/Nihal.jpg');
+}
+.i30{
+	background-image: url('./img/Veda.jpg');
+}
+.i31{
+	background-image: url('./img/Sanketh.jpg');
+}
+
+
 
 @media screen and (min-width: 576px){
 	.main_title{

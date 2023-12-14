@@ -125,7 +125,7 @@ import {
         
       ],
       
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/QZUAY7sunZtn5zc89"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -138,7 +138,7 @@ import {
         "Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks and technologies"
       ],
       
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/p1uwkRibrQAqWp7W8"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -152,7 +152,7 @@ import {
        
       ],
      
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/4ivFKcfkVAqA8WWd7"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -164,7 +164,7 @@ import {
         "Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks and technologies"
       ],
       
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/nVa9SoABisyQJUAP7"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -176,7 +176,7 @@ import {
         "Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks and technologies"
       ],
       
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/wDBBZAG4Lw3c24s68"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -188,7 +188,7 @@ import {
         "Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks and technologies"
       ],
       
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/mDK48zvQT8iyKZFy9"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -201,7 +201,7 @@ import {
       ],
       
         
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/eCakqDQnXuttJERg6"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -214,7 +214,7 @@ import {
       ],
       
         
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/hDErjXTCF5qspLgk9"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -227,7 +227,7 @@ import {
       ],
       
         
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/FFDCcWg4DWqU69E1A"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
@@ -240,12 +240,12 @@ import {
       ],
       
         
-      link: "https://example.com/cyber-security"
+      link: "https://forms.gle/ubpyUewAuyWxJLqv9"
       // You can add other properties such as onClick, target, etc., based on your requirements
       
     },
   ];
-  
+
   const testimonials = [
     {
       testimonial:

@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import { SectionWrapper } from '../hoc'
 import { styles } from '../styles'
 const TAM_Crew = () => {
@@ -9,7 +10,9 @@ const TAM_Crew = () => {
     <p className={`${styles.heroSubText}`}>“Every great organization has a great team. We as a crew at TAM have made it a point to ensure that every event is filled with a great deal of success, in addition to ensuring every participant is able to be served with equal priority.</p>
     <br />
     <br />
-    <img src="https://smectam.in/planet-09.png" alt="TAM Crew" className='rounded-lg cursor-pointer hover:animate-pulse' />
+    <Link to="/crew">
+      <img src="https://smectam.in/planet-09.png" alt="TAM Crew" className='rounded-lg cursor-pointer hover:animate-pulse' />
+    </Link>
     </div>
     </>
   )

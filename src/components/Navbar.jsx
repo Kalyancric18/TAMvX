@@ -37,7 +37,7 @@ const Navbar = () => {
             </li>
           ))}
           
-          <Link to={'/crew'} target='_blank'> <li
+          <Link to={'/crew/'} target='_blank'> <li
             className={`text-secondary hover:text-white text-[18px] font-medium`}>
             <a>{'Crew'}</a>
           </li></Link>

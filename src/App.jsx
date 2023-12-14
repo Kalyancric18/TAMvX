@@ -1,22 +1,6 @@
-import { BrowserRouter,HashRouter, Route, Routes } from "react-router-dom";
+import { RouterProvider, createBrowserRouter, BrowserRouter,HashRouter, Route, Routes } from "react-router-dom";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works,Crew } from "./components";
 import Insight from "./components/Insight";
-
-
-function App() {
-
-  return (
-    <HashRouter>
-      <Routes>
-        <Route path='/' element={<MainApp/>}/>
-        
-        <Route path='/crew' element={<Crew/>} />
-      </Routes>
-    </HashRouter>
-
-  )
-}
-
 
 const MainApp = () => {
   return (
@@ -37,5 +21,40 @@ const MainApp = () => {
   </div>
   )
 }
+
+
+
+const router = createBrowserRouter([
+
+  {
+    path: "/",
+    element: <MainApp />,
+  },
+  {
+    path: "/crew",
+    element: <Crew/>,
+  }
+
+])
+
+
+function App() {
+
+  return (
+
+    // <HashRouter>
+    //   <Routes>
+    //     <Route path='/TAMvX/' element={<MainApp/>}/>
+        
+    //     <Route path='/TAMvX/crew' element={<Crew/>} />
+    //   </Routes>
+    // </HashRouter>
+
+    <RouterProvider router={router} />
+    
+  )
+}
+
+
 
 export default App
