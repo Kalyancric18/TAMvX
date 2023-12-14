@@ -15,7 +15,7 @@ const Navbar = () => {
       } w-full flex items-center py-5 fixed top-0 z-20 ${"bg-primary"
       }`}>
       <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
-        <Link to='/'
+        <Link to='/TAMvX/'
           className='flex items-center gap-2'
           onClick={() => {
             setActive("");
@@ -37,7 +37,7 @@ const Navbar = () => {
             </li>
           ))}
           
-          <Link to={'/crew/'} target='_blank'> <li
+          <Link to={'/TAMvX/crew/'} target='_blank'> <li
             className={`text-secondary hover:text-white text-[18px] font-medium`}>
             <a>{'Crew'}</a>
           </li></Link>

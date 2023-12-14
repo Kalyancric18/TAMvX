@@ -27,11 +27,11 @@ const MainApp = () => {
 const router = createBrowserRouter([
 
   {
-    path: "/",
+    path: "/TAMvX",
     element: <MainApp />,
   },
   {
-    path: "/crew",
+    path: "/TAMvX/crew",
     element: <Crew/>,
   }
 
@@ -41,14 +41,6 @@ const router = createBrowserRouter([
 function App() {
 
   return (
-
-    // <HashRouter>
-    //   <Routes>
-    //     <Route path='/TAMvX/' element={<MainApp/>}/>
-        
-    //     <Route path='/TAMvX/crew' element={<Crew/>} />
-    //   </Routes>
-    // </HashRouter>
 
     <RouterProvider router={router} />
     
