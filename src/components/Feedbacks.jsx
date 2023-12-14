@@ -11,7 +11,7 @@ const TAM_Crew = () => {
     <br />
     <br />
     <Link to="/TAMvX/crew">
-      <img src="https://smectam.in/planet-09.png" alt="TAM Crew" className='rounded-lg cursor-pointer hover:animate-pulse' />
+      <img src="./planet-09.png" alt="TAM Crew" className='rounded-lg cursor-pointer hover:animate-pulse' />
     </Link>
     </div>
     </>
